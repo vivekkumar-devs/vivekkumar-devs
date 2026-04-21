@@ -1,58 +1,62 @@
 <p align="center">
-  <img src="<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/d9adc866-1689-4025-bed9-59490de49dc1" />
+  <img src="<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/e033f6d5-fa53-4288-992b-0c8205a1b820" />
 " />
 </p>
 
 <h1 align="center">Vivek Kumar</h1>
 <p align="center">
-  Android Developer • Real-Time Systems • Firebase • GPS
+  Android Developer | Java | Firebase | Real-Time Systems
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00"/>
   <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/RealTime-0A0A0A?style=for-the-badge&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
 </p>
 
 ---
 
 ## 📌 About Me
 
-- 🎓 MCA Student  
-- 💻 Focused on **Android + Real-Time Applications**  
-- 📍 Building systems using **GPS & live data synchronization**  
-- 🎯 Goal: Work on impactful mobile applications  
+- 🎓 MCA Student at DIT University (2025–2027)  
+- 💻 Focused on Android Development & Real-Time Applications  
+- 📍 Strong interest in GPS-based systems and live data sync  
+- 🧠 Problem solver with practical implementation mindset  
 
 ---
 
 ## 🚀 Featured Project
 
-### 🚗 GaadiiPakdo — Real-Time Transport Tracking
+### 🚗 GaadiiPakdo — Real-Time Transport Tracking App  
+🔗 https://github.com/vivekkumar-devs/GaadiiPakdo  
 
-A role-based Android application that enables:
-- Drivers → broadcast live GPS location  
-- Users → track nearby vehicles in real time  
-
-#### 🔧 Highlights
-- Real-time Firebase synchronization  
+- Role-based Android app (User & Driver)  
+- Real-time GPS tracking using Firebase  
 - OSMDroid map integration  
 - Distance & ETA estimation  
-- Single app with dual roles (User + Driver)  
-
-<p align="center">
-  <a href="https://github.com/vivekkumar-devs/GaadiiPakdo">
-    <img src="https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-  </a>
-</p>
+- Tested under real-world conditions across multiple devices  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase" />
-</p>
+**Languages:**  
+Java • C/C++ • SQL  
+
+**Tools & Technologies:**  
+Android Studio • Firebase • MySQL • Canva • MS Excel  
+
+---
+
+## 🧪 Internship
+
+**Cyber Security Intern — Smart ED**  
+Oct 2025 – Jan 2026  
+
+- Learned cyber security fundamentals  
+- Studied ethical hacking & network security basics  
+- Worked with vulnerability concepts  
 
 ---
 
@@ -90,5 +94,5 @@ A role-based Android application that enables:
 ---
 
 <p align="center">
-  ⭐ Building scalable real-time mobile systems
+  ⭐ Building real-time Android applications with practical impact
 </p>
