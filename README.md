@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/e033f6d5-fa53-4288-992b-0c8205a1b820" />
-" />
+
 </p>
 
 <h1 align="center">Vivek Kumar</h1>
